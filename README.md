@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard analyzing sales and profit performance for a retail superstore, built to help stakeholders track KPIs, identify trends, and make data-driven business decisions.
 
-![Dashboard Preview](superstore_screenshot.png)
-
 ## Overview
 
 This dashboard analyzes **$12.6M in total sales** and **$1.47M in total profit** across a 4-year period, breaking down performance by category, region, segment, and sub-category to surface actionable business insights.
@@ -37,4 +35,3 @@ Sample Superstore dataset (Sales, Profit, Category, Region, Segment, Order Date,
 ## Files
 
 - `SuperstoreDashboard.pbix` — the full Power BI file
-- `superstore_screenshot.png` — dashboard preview image
